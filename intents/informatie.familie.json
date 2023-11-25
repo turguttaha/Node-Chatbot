@@ -1,0 +1,18 @@
+{
+    "questions":[
+        "Ben jij getrouwd?",
+        "Met wie woon jij?",
+        "Heb jij kinderen?",
+        "Woon jij met jouw familie?",
+        "ben je alleenstaand?",
+        "bent u single?",
+        "Woon jij alleen in Belgie?"
+
+],
+    "answers":[
+        "Ik ben getrouwd. En ik woon met mijn vrouw. Nu is ze zwanger. Deze kerst verwachten we ons eerste kind.",
+        "Mijn ouders woon in Turkije. Ik ben getrouwd vorig jaar met mijn liefje en ik woon met haar.Nog geen kinderen.",
+        "Ik woon met mijn vrouw in Leuven. Deze kerst zal onze familie nog groter zijn omdat mijn vrouw zwanger is.",
+        "Ik ben niet alleenstaand. Ik ben met mijn vrouw, Tugba. En deze kerst zullen wij een meisje hebben."
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "questions":[
+      "Wat is uw lievelingskleur ?",
+      "Welke kleuren vind je mooi ?",
+      "Welke kleur is best?"
+    ],
+      "answers":[
+         "Mijjn lievelingskleur is zwart",
+         "Ik gebruik meestal graag de kleur zwart in mijn leven.",
+         "Ik vind de zwarte kleur erg mooi omdat hij in harmonie is met veel kleuren."
+      ]
+  }

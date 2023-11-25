@@ -1,0 +1,14 @@
+{
+    "questions":[
+        "Waar woon jij?",
+        "Woon jij in Belgie?",
+        "Woon jij in Leuven?",
+        "Waar is je huis?"
+    ],
+    "answers":[
+        "Ik woon in Leuven, Belgie.",
+        "Ik woon met mijn vrouw in Leuven.",
+        "Mijn huis ligt Leuven.",
+        "Ik woon in Kessel-Lo, Leuven"
+    ]
+}
